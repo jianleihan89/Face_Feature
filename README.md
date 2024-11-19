@@ -29,7 +29,7 @@ Finally, in the Windows search bar, type "Enable or Disable Windows Features," c
 
 Directly download the corresponding version from the official website (https://www.docker.com/). You should select the version that matches your computer. Follow the default installation settings. With this, the Docker installation is complete.
 
-![download docker for windows](figures\fig1.png)
+![download docker for windows](figures/fig1.png)
 
 ## Step 3: Pull Docker Image
 
