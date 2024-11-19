@@ -67,8 +67,8 @@ output_dir = r'C:\Users\Yuuuu\face_feature\output' # replace with your own path
 
 Then, in the VSCode interface, use the shortcut key combination CTRL + Shift + P to select a Python interpreter greater than python3.6. You need select according to your preference, and this example uses python3.9.
 
-![vscode interpreter](figures\fig7.png)
+![vscode interpreter](figures/fig7.png)
 
 Finally, run the script file `feature_extract.py` in the terminal, and you will get the following results. There are two result files in C:\Users\Yuuuu\face_feature\output, namely 2015-10-15-15-14.csv and 2015-10-15-15-14.hog.
 
-![error](figures\fig9.png)
+![error](figures/fig9.png)
