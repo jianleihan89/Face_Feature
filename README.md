@@ -55,7 +55,7 @@ You can open a new terminal in the Docker software interface and enter `docker p
 
 ## Step 4: Run the script feature_extract.py
 
-You can run it in VS Code, which can be downloaded and installed from the official website (https://code.visualstudio.com/). After that, simply open the VSCode software, open a folder to serve as the root directory for pulling project files. In the example, **C:\Users\Yuuuu** is the directory (you can change this according to your needs), then in the VSCode interface, use the shortcut key **CTRL + J** to summon the terminal. In the terminal, enter the command `git clone https://gitee.com/zhikai-22/face_feature.git`, and you can pull the repository locally.
+You can run it in VS Code, which can be downloaded and installed from the official website (https://code.visualstudio.com/). After that, simply open the VSCode software, open a folder to serve as the root directory for pulling project files. In the example, **C:\Users\Yuuuu** is the directory (you can change this according to your needs), then in the VSCode interface, use the shortcut key **CTRL + J** to summon the terminal. In the terminal, enter the command `git clone [https://gitee.com/zhikai-22/face_feature.git](https://github.com/jianleihan89/Face_Feature.git)`, and you can pull the repository locally.
 
 Next, make the following modifications to the script file `feature_extract.py`.
 
