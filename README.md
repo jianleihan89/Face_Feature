@@ -35,23 +35,23 @@ Directly download the corresponding version from the official website (https://w
 
 After completing step 2, there will be a Docker icon on the desktop. Double-click to open it, and you will need to log in with your account. Follow the software's guidance to complete this step. You need to register an account and log in. Then, open the terminal in the software interface as shown below.
 
-![open the docker](figures\fig2.png)
+![open the docker](figures/fig2.png)
 
 Enter `docker version` in the terminal, and the following information will appear. If it does not, docker has not been installed successfully and needs to be reinstalled.
 
-![docker version](figures\fig3.png)
+![docker version](figures/fig3.png)
 
 Next, you can pull the docker image. In the terminal, enter `docker run -it --rm algebr/openface:latest`, and the following result will appear.
 
-![docker run](figures\fig4.png)
+![docker run](figures/fig4.png)
 
 Subsequently, you will be redirected to a new container.
 
-![continer](figures\fig5.png)
+![continer](figures/fig5.png)
 
 You can open a new terminal in the Docker software interface and enter `docker ps`. The container ID (c9891d21c055) will appear, which will be needed later. With this, the Docker image pull is complete.
 
-![continer id](figures\fig6.png)
+![continer id](figures/fig6.png)
 
 ## Step 4: Run the script feature_extract.py
 
